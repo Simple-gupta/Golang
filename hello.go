@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	var i int = 10
 	fmt.Print(i)
-	fmt.Println("hello world")
+	fmt.Println("hello world !")
 }
